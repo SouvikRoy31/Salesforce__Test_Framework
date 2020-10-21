@@ -8,9 +8,6 @@ def close_browser(c_browser):
     os.system('taskkill /F /Fi "imagename eq {}"'.format(c_browser))
 
 
-
-
-
 def search_and_click(driver, xpath, value):
     driver.find_element_by_xpath(xpath).send_keys(value)
     time.sleep(5)
