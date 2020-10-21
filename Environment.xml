@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<environment>
+    <sandbox_oct>
+        <browser>chrome.exe</browser>
+        <url>https://molina5--mo5qaoct.my.salesforce.com</url>
+        <uname>souvik.roy@molinahealthcare.com</uname>
+        <password>August123</password>
+    </sandbox_oct>
+    <sandbox_sep>
+        <browser>chrome.exe</browser>
+        <url>https://molina5--mo5qaoct.my.salesforce.com</url>
+        <uname>souvik.roy_egagent@molinahealthcare.com</uname>
+        <password>August123</password>
+    </sandbox_sep>
+</environment>
