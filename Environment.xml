@@ -2,18 +2,21 @@
 
 <environment>
     <sandbox_oct>
+        <privilege>Agent</privilege>
         <browser>chrome.exe</browser>
         <url>https://molina5--mo5qaoct.my.salesforce.com</url>
         <uname>souvik.roy@molinahealthcare.com</uname>
         <password>August123</password>
     </sandbox_oct>
     <sandbox_sep>
+        <privilege>Agent</privilege>
         <browser>chrome.exe</browser>
         <url>https://molina5--mo5qaoct.my.salesforce.com</url>
         <uname>souvik.roy_egagent@molinahealthcare.com</uname>
         <password>August123</password>
     </sandbox_sep>
     <sandbox_nov>
+        <privilege>Admin</privilege>
         <browser>chrome.exe</browser>
         <url>https://molina5--mo5qanov.my.salesforce.com</url>
         <uname>souvikadmin.roy@molinahealthcare.com</uname>
