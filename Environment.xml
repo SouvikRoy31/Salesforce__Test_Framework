@@ -13,4 +13,10 @@
         <uname>souvik.roy_egagent@molinahealthcare.com</uname>
         <password>August123</password>
     </sandbox_sep>
+    <sandbox_nov>
+        <browser>chrome.exe</browser>
+        <url>https://molina5--mo5qanov.my.salesforce.com</url>
+        <uname>souvikadmin.roy@molinahealthcare.com</uname>
+        <password>August123</password>
+    </sandbox_nov>
 </environment>
